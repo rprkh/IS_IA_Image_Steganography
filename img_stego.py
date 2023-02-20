@@ -43,7 +43,7 @@ def encode():
     if len(data) == 0:
         raise ValueError("Empty data")
     global enc_img
-    enc_img = str("newestt.png")
+    enc_img = str("new_image.png")
     global enc_data
     enc_data = hidedata(img, data)
    
