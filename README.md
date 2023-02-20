@@ -10,7 +10,15 @@
 
 ### Implementation Screenshots
 
+![image](https://user-images.githubusercontent.com/75483881/220123698-87d67820-9b18-4cee-8bf3-569d76d7403d.png)
 
+![image](https://user-images.githubusercontent.com/75483881/220123919-57a41a65-8d2a-4431-8605-b7ae0c1508eb.png)
+
+![image](https://user-images.githubusercontent.com/75483881/220124060-50702de7-d839-49b2-8c21-72eb0f73ba1b.png)
+
+![image](https://user-images.githubusercontent.com/75483881/220124133-06e6262e-3b07-4727-9eab-ae0e40daae42.png)
+
+![image](https://user-images.githubusercontent.com/75483881/220124315-d45463d4-87f5-4668-9a7f-73c2efa4677f.png)
 
 ### Explanation
 - We have utilized the Least Significant Bit Algorithm for this method.
