@@ -9,10 +9,10 @@
 **Steganography**, which translates to "covered writing" or "hidden writing", is derived from the Greek terms `stegos` which means "to cover," and `grayfia`, which means "writing". Sensitive information can be hidden with steganography by being inserted into a text, audio, or video file. It is one of the methods used to defend sensitive or secret information against nefarious attacks. *Image Steganography* as the name suggests, steganography is the process of hiding data within an image file. The "cover picture" is the image selected for this purpose, while the "stego image" is the image that results from the steganography.
 
 ### Modules Used
-  •	Tkinter: Used for creating a Graphical User Interface(GUI) 
-  •	Python Image Library(PIL): Used to handle image data in python
-  •	Numpy: Used for array processing
-  •	cv2: Used for image processing
+  - Tkinter: Used for creating a Graphical User Interface(GUI)
+  -	Python Image Library(PIL): Used to handle image data in python
+  - Numpy: Used for array processing
+  -	cv2: Used for image processing
 
 ### Block Diagram
 
