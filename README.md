@@ -10,7 +10,7 @@
 
 ### Block Diagram
 
-![image](https://user-images.githubusercontent.com/75483881/220125806-bcecafd1-b816-44e0-b670-89b50fef7f8e.png)
+![image](https://user-images.githubusercontent.com/75483881/220126940-50029fd3-3cea-41c3-a25e-d46ad329c757.png)
 
 In memory, an image is represented as a N * M (for greyscale images) or N * M * 3 (for colour images) matrix, with each entry representing the intensity value of a pixel. Image steganography embeds a message into an image by changing the values of some pixels chosen by an encryption algorithm.
 
