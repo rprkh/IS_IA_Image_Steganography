@@ -8,6 +8,18 @@
 ### About Image Steganography
 **Steganography**, which translates to "covered writing" or "hidden writing", is derived from the Greek terms `stegos` which means "to cover," and `grayfia`, which means "writing". Sensitive information can be hidden with steganography by being inserted into a text, audio, or video file. It is one of the methods used to defend sensitive or secret information against nefarious attacks. *Image Steganography* as the name suggests, steganography is the process of hiding data within an image file. The "cover picture" is the image selected for this purpose, while the "stego image" is the image that results from the steganography.
 
+### Block Diagram
+
+
+
+In memory, an image is represented as a N * M (for greyscale images) or N * M * 3 (for colour images) matrix, with each entry representing the intensity value of a pixel. Image steganography embeds a message into an image by changing the values of some pixels chosen by an encryption algorithm.
+
+### Conversion Table
+
+
+
+The above table shows the conversion of character to decimal and binary numbers.
+
 ### Implementation Screenshots
 
 ![image](https://user-images.githubusercontent.com/75483881/220123698-87d67820-9b18-4cee-8bf3-569d76d7403d.png)
