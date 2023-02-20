@@ -10,15 +10,15 @@
 
 ### Block Diagram
 
-
+![image](https://user-images.githubusercontent.com/75483881/220125806-bcecafd1-b816-44e0-b670-89b50fef7f8e.png)
 
 In memory, an image is represented as a N * M (for greyscale images) or N * M * 3 (for colour images) matrix, with each entry representing the intensity value of a pixel. Image steganography embeds a message into an image by changing the values of some pixels chosen by an encryption algorithm.
 
 ### Conversion Table
 
+![image](https://user-images.githubusercontent.com/75483881/220126646-c0f90377-a457-49c3-8929-2d50626b4e40.png)
 
-
-The above table shows the conversion of character to decimal and binary numbers.
+The above table shows the conversion of characters to decimal, octal and hexadecimal numbers.
 
 ### Implementation Screenshots
 
